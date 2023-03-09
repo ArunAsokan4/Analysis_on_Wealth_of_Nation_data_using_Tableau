@@ -6,4 +6,4 @@ Requirements: The client is colour blind and requested you to bear this in mind 
 
 https://public.tableau.com/app/profile/arun.asokan/viz/JustITTableauAssignment/Dashboard
 
-Conculsion: While working on this dataset, I understood the economy and GDP's of different countries and aimed to show the differnt trends. I also learnt about colour blindness patterns and about different color palettes for Analysis.
+Conculsion: While working on this dataset, I understood the economy and GDP's of different countries and aimed to show the differnt trends. I also learnt about colour blindness patterns and about different colour palettes for Analysis.
